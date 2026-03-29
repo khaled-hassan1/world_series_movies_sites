@@ -2,15 +2,405 @@
     "arabic_sites": [
         {
             "id": "001ar",
-            "url": "",
-            "name": ""
+            "url": "https://r.cimalight.co/main17",
+            "name": "Cima Light"
+        },
+        {
+            "id": "002ar",
+            "url": "https://aflaam.com/search?section=1",
+            "name": "Aflaam"
+        },
+        {
+            "id": "003ar",
+            "url": "https://shaheeid4u.net/",
+            "name": "Shaheed 4U"
+        },
+        {
+            "id": "004ar",
+            "url": "https://cfu.cam/",
+            "name": "CFU"
+        },
+        {
+            "id": "005ar",
+            "url": "https://cimafree.onl/",
+            "name": "Cima Free"
+        },
+        {
+            "id": "006ar",
+            "url": "https://vid.mycima.cc/index.php",
+            "name": "My Cima"
+        },
+        {
+            "id": "007ar",
+            "url": "https://www.qfilm.tv/btv/",
+            "name": "QFilm"
+        },
+        {
+            "id": "008ar",
+            "url": "https://topcinemaa.com",
+            "name": "Top Cinema"
+        },
+        {
+            "id": "009ar",
+            "url": "https://dramacafe-tv.best/",
+            "name": "Drama Cafe"
+        },
+        {
+            "id": "010ar",
+            "url": "https://www.asiaar.online/",
+            "name": "Asia AR"
+        },
+        {
+            "id": "011ar",
+            "url": "https://vumoo.top/home/",
+            "name": "Vumoo"
+        },
+        {
+            "id": "012ar",
+            "url": "https://r.cimalight.co/main15",
+            "name": "Cima Light 2"
+        },
+        {
+            "id": "013ar",
+            "url": "https://www.deep-drama.com/",
+            "name": "Deep Drama"
+        },
+        {
+            "id": "014ar",
+            "url": "https://dramacool9.com.ro/",
+            "name": "Drama Cool"
+        },
+        {
+            "id": "015ar",
+            "url": "https://watch.viu.com/ott/eg",
+            "name": "Viu"
+        },
+        {
+            "id": "016ar",
+            "url": "https://www.dailymotion.com/EgyBestOfficial",
+            "name": "Daily Motion"
+        },
+        {
+            "id": "017ar",
+            "url": "https://www.egybests.com/",
+            "name": "Egy Bests"
+        },
+        {
+            "id": "018ar",
+            "url": "https://fushar.lol/home",
+            "name": "Fushar"
+        },
+        {
+            "id": "019ar",
+            "url": "https://x7k9f.sbs/",
+            "name": "X7K9F"
+        },
+        {
+            "id": "020ar",
+            "url": "https://yallacima.net/",
+            "name": "Yalla Cima"
+        },
+        {
+            "id": "021ar",
+            "url": "https://asd.pics/home3/",
+            "name": "ASD Pics"
+        },
+        {
+            "id": "022ar",
+            "url": "https://cimalight.icu/",
+            "name": "Cima Light ICU"
+        },
+        {
+            "id": "023ar",
+            "url": "https://aflam.cc/",
+            "name": "Aflam"
+        },
+        {
+            "id": "024ar",
+            "url": "https://ak.sv/main/",
+            "name": "AK SV"
+        },
+        {
+            "id": "025ar",
+            "url": "https://egibest.cam/",
+            "name": "Egi Best"
+        },
+        {
+            "id": "026ar",
+            "url": "https://egydead.ca/",
+            "name": "Egy Dead"
+        },
+        {
+            "id": "027ar",
+            "url": "https://egibest.org/",
+            "name": "Egi Best Org"
+        },
+        {
+            "id": "028ar",
+            "url": "https://eng.movizlands.com/home13/",
+            "name": "Moviz Lands"
+        },
+        {
+            "id": "029ar",
+            "url": "https://i-egybest.net/",
+            "name": "iEgy Best"
+        },
+        {
+            "id": "030ar",
+            "url": "https://moviz-time.co/",
+            "name": "Moviz Time"
+        },
+        {
+            "id": "031ar",
+            "url": "https://mycima.band/",
+            "name": "My Cima Band"
+        },
+        {
+            "id": "032ar",
+            "url": "https://larozaa.rest/gaza.20",
+            "name": "La Roza"
+        },
+        {
+            "id": "033ar",
+            "url": "https://r90.cimalek.buzz",
+            "name": "Cimalek"
+        },
+        {
+            "id": "034ar",
+            "url": "https://shoofmax.com/",
+            "name": "Shoof Max"
+        },
+        {
+            "id": "035ar",
+            "url": "https://shhahhed4u.net/",
+            "name": "Shahhed 4U"
+        },
+        {
+            "id": "036ar",
+            "url": "https://vid.mycima.cc/",
+            "name": "My Cima VID"
+        },
+        {
+            "id": "037ar",
+            "url": "https://egbest.cimawbas.tv/egy1/",
+            "name": "Egy Best CIMA"
         }
     ],
     "english_sites": [
         {
             "id": "001en",
-            "url": "",
-            "name": ""
+            "url": "https://ww8.123moviesfree.net/top-imdb/all/",
+            "name": "123 Movies Free"
+        },
+        {
+            "id": "002en",
+            "url": "https://kshow123.tv/",
+            "name": "KShow123"
+        },
+        {
+            "id": "003en",
+            "url": "https://www.justwatch.one/home/",
+            "name": "Just Watch"
+        },
+        {
+            "id": "004en",
+            "url": "https://ramoflix.net/",
+            "name": "Ramoflix"
+        },
+        {
+            "id": "005en",
+            "url": "https://wmovies.one/",
+            "name": "WMovies"
+        },
+        {
+            "id": "006en",
+            "url": "https://dorawatch.one/",
+            "name": "Dora Watch"
+        },
+        {
+            "id": "007en",
+            "url": "https://hydrahd.ru/",
+            "name": "Hydra HD"
+        },
+        {
+            "id": "008en",
+            "url": "https://www.cineby.gd/",
+            "name": "Cine By"
+        },
+        {
+            "id": "009en",
+            "url": "https://flickystream.ru/",
+            "name": "Flicky Stream"
+        },
+        {
+            "id": "010en",
+            "url": "https://yflix.to/home",
+            "name": "YFlix"
+        },
+        {
+            "id": "011en",
+            "url": "https://cinema.bz/",
+            "name": "Cinema BZ"
+        },
+        {
+            "id": "012en",
+            "url": "https://flixer.su/",
+            "name": "Flixer"
+        },
+        {
+            "id": "013en",
+            "url": "https://ww1.goojara.to/",
+            "name": "Goojara"
+        },
+        {
+            "id": "014en",
+            "url": "https://67movies.net/",
+            "name": "67 Movies"
+        },
+        {
+            "id": "015en",
+            "url": "https://mapple.mov/",
+            "name": "Mapple"
+        },
+        {
+            "id": "016en",
+            "url": "https://popcornmovies.org/",
+            "name": "Popcorn Movies"
+        },
+        {
+            "id": "017en",
+            "url": "https://gomovies.gg/",
+            "name": "GoMovies"
+        },
+        {
+            "id": "018en",
+            "url": "https://theflixertv.click/",
+            "name": "The Flixer TV"
+        },
+        {
+            "id": "019en",
+            "url": "https://onionplay.cx/",
+            "name": "Onion Play"
+        },
+        {
+            "id": "020en",
+            "url": "https://www.lookmovie2.to/",
+            "name": "Look Movie 2"
+        },
+        {
+            "id": "021en",
+            "url": "https://pressplayz.to/",
+            "name": "Press Playz"
+        },
+        {
+            "id": "022en",
+            "url": "https://moviesjoytv.to/",
+            "name": "Movies Joy TV"
+        },
+        {
+            "id": "023en",
+            "url": "https://fmovies.co/",
+            "name": "FMovies"
+        },
+        {
+            "id": "024en",
+            "url": "https://ww3.soap2dayhdz.com/",
+            "name": "Soap 2 Day"
+        },
+        {
+            "id": "025en",
+            "url": "https://projectfreetv.sx/",
+            "name": "Project Free TV"
+        },
+        {
+            "id": "026en",
+            "url": "https://sflix.ps/",
+            "name": "SFlix"
+        },
+        {
+            "id": "027en",
+            "url": "https://theflixertv.to/",
+            "name": "The Flixer TV 2"
+        },
+        {
+            "id": "028en",
+            "url": "https://myflixerz.to/",
+            "name": "My Flixerz"
+        },
+        {
+            "id": "029en",
+            "url": "https://hdtodayz.to/",
+            "name": "HD Today Z"
+        },
+        {
+            "id": "030en",
+            "url": "https://flixhq.to/",
+            "name": "Flix HQ"
+        },
+        {
+            "id": "031en",
+            "url": "https://hurawatch.cc/",
+            "name": "Hura Watch"
+        },
+        {
+            "id": "032en",
+            "url": "https://cinebytv.com/",
+            "name": "Cine By TV"
+        },
+        {
+            "id": "033en",
+            "url": "https://ridomovies.tv/",
+            "name": "Rido Movies"
+        },
+        {
+            "id": "034en",
+            "url": "https://ww7.123moviesfree.net/home/",
+            "name": "123 Movies Free 2"
+        },
+        {
+            "id": "035en",
+            "url": "https://hdtoday.cc/",
+            "name": "HD Today"
+        },
+        {
+            "id": "036en",
+            "url": "https://vidplay.top/",
+            "name": "VidPlay"
+        },
+        {
+            "id": "037en",
+            "url": "https://putlocker.pe/",
+            "name": "Putlocker"
+        },
+        {
+            "id": "038en",
+            "url": "https://ww.yesmovies.ag/",
+            "name": "Yes Movies"
+        },
+        {
+            "id": "039en",
+            "url": "https://watchseries.pe/",
+            "name": "Watch Series"
+        },
+        {
+            "id": "040en",
+            "url": "https://www.primewire.mov/home",
+            "name": "Prime Wire"
+        },
+        {
+            "id": "041en",
+            "url": "https://watch32.sx/",
+            "name": "Watch 32"
+        },
+        {
+            "id": "042en",
+            "url": "https://flickr-mini.pages.dev/",
+            "name": "Flickr Mini"
+        },
+        {
+            "id": "043en",
+            "url": "https://streamm4u.com.co/home",
+            "name": "Stream M4U"
         }
     ]
 }

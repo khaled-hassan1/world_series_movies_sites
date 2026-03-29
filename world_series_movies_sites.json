@@ -1,6 +1,11 @@
 {
     "arabic_sites": [
         {
+            "id": "024ar",
+            "url": "https://ak.sv/main/",
+            "name": "AK SV"
+        },
+        {
             "id": "001ar",
             "url": "https://r.cimalight.co/main17",
             "name": "Cima Light"
@@ -114,11 +119,6 @@
             "id": "023ar",
             "url": "https://aflam.cc/",
             "name": "Aflam"
-        },
-        {
-            "id": "024ar",
-            "url": "https://ak.sv/main/",
-            "name": "AK SV"
         },
         {
             "id": "025ar",

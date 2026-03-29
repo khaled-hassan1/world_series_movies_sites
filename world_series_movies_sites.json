@@ -1,0 +1,16 @@
+{
+    "arabic_sites": [
+        {
+            "id": "001ar",
+            "url": "",
+            "name": ""
+        }
+    ],
+    "english_sites": [
+        {
+            "id": "001en",
+            "url": "",
+            "name": ""
+        }
+    ]
+}

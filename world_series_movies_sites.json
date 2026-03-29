@@ -401,6 +401,46 @@
             "id": "043en",
             "url": "https://streamm4u.com.co/home",
             "name": "Stream M4U"
+        },
+        {
+            "id": "044en",
+            "url": "https://asiaflix.net/home",
+            "name": "Asia Flix"
+        },
+        {
+            "id": "045en",
+            "url": "https://kisskh.id/",
+            "name": "KissKH"
+        },
+        {
+            "id": "046en",
+            "url": "https://goplay.su/",
+            "name": "Go Play"
+        },
+        {
+            "id": "047en",
+            "url": "https://ww14.kissasian.com.lv/",
+            "name": "Kiss Asian"
+        },
+        {
+            "id": "048en",
+            "url": "https://dramacool.com.tr/",
+            "name": "Drama Cool"
+        },
+        {
+            "id": "049en",
+            "url": "https://asianctv.cc/",
+            "name": "Asian CTV"
+        },
+        {
+            "id": "050en",
+            "url": "https://myasiantv.com.bz/",
+            "name": "My Asian TV"
+        },
+        {
+            "id": "051en",
+            "url": "https://kisskh.club/",
+            "name": "KissKH Club"
         }
     ]
 }

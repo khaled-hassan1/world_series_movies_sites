@@ -193,6 +193,11 @@
             "name": "123 Movies Free"
         },
         {
+            "id": "00321231en",
+            "url": "https://fmovies-net.com/",
+            "name": "fmovies"
+        },
+        {
             "id": "002en",
             "url": "https://kshow123.tv/",
             "name": "KShow123"

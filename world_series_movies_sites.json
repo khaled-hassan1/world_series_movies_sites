@@ -1,6 +1,11 @@
 {
     "arabic_sites": [
         {
+            "id": "008qar",
+            "url": "https://www.series4pack.site",
+            "name": "Series 4 pack"
+        },
+        {
             "id": "008ar",
             "url": "https://topcinemaa.com",
             "name": "Top Cinema"

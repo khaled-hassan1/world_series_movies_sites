@@ -1,14 +1,13 @@
 {
     "arabic_sites": [
-        { "id": "008ar", "url": "https://topcinema.io/", "name": "Top Cinema" },
-        { "id": "0017ar", "url": "https://a.qfilm.tv/", "name": "QFilm" },
-        { "id": "024ar", "url": "https://ak.sv/", "name": "AK SV" },
+        { "id": "008ar", "url": "https://topcinema.io/", "name": "Top Cinema" },        
+        { "id": "024ar", "url": "https://akwam.ss/movies", "name": "AK SV" },
         { "id": "001ar", "url": "https://e.cimalight.co/main30", "name": "Cima Light" },
         { "id": "002ar", "url": "https://aflaam.com/search?section=1", "name": "Aflaam" },
-        { "id": "003ar", "url": "https://shaheeid4u.net/", "name": "Shaheed 4U" },
         { "id": "004ar", "url": "https://cimafu.cam/", "name": "CFU" },
         { "id": "005ar", "url": "https://cima.website/", "name": "Cima Free" },
         { "id": "006ar", "url": "https://vid.mycima.cc/index.php", "name": "My Cima" },
+        { "id": "0017ar", "url": "https://a.qfilm.tv/", "name": "QFilm" },
         { "id": "009ar", "url": "https://dramacafe-tv.help/", "name": "Drama Cafe" },
         { "id": "010ar", "url": "https://www.asiaar.online/", "name": "Asia AR" },
         { "id": "011ar", "url": "https://vumoo.top/home/", "name": "Vumoo" },

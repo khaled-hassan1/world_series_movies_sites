@@ -1,6 +1,7 @@
 {
     "arabic_sites": [
         { "id": "008ar", "url": "https://topcinema.io/", "name": "Top Cinema" },        
+        { "id": "024a432r", "url": "https://qesset.net/clarus/mucize-doktor-episode-1/", "name": "قصة عشق" },
         { "id": "024ar", "url": "https://akwam.ss/movies", "name": "AK SV" },
         { "id": "001ar", "url": "https://e.cimalight.co/main30", "name": "Cima Light" },
         { "id": "002ar", "url": "https://aflaam.com/search?section=1", "name": "Aflaam" },
